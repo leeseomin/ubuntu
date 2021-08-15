@@ -16,3 +16,8 @@ https://gist.github.com/leeseomin/b475e32a63b2cacc4177c6b8fc9f5f72
 https://gist.github.com/leeseomin/1f13cd8a11fc4e772208bedbe67453b8
 
 
+
+###  youtube-dl  다운로드 예제 
+
+https://gist.github.com/leeseomin/7c33573a053cb9a6e21257a1552f7219
+
