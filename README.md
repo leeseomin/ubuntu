@@ -8,6 +8,7 @@ https://gist.github.com/leeseomin/b7eb8714d2dacaba1b3232c3c9a24113
 
 ### 우분투 필수 프로그램 세팅 
 
+https://gist.github.com/leeseomin/b475e32a63b2cacc4177c6b8fc9f5f72
 
 
 ### ffmpeg 예제 
