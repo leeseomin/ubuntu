@@ -1,5 +1,8 @@
 # ubuntu
 
+### 해외뉴스 및 정보
+
+https://telegra.ph/news-and-more-08-16
 
 ### 한글 입력기 설치 
 
