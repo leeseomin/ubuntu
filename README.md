@@ -25,3 +25,8 @@ https://gist.github.com/leeseomin/7c33573a053cb9a6e21257a1552f7219
 ### 명화 다운로드 
 
 https://gist.github.com/leeseomin/85c60c30dc803faa865fb6f6cdd78830
+
+
+### 기본 이미지 편집 명령어 
+
+
