@@ -42,4 +42,4 @@ https://gist.github.com/leeseomin/be03a1b82e53b3d77e72f1a7430048ac
 
 ### 구글코랩 실습 예제 
 
-
+뉴럴스타일 :  https://colab.research.google.com/drive/1B1T3R5m8Ll8dKvdwbIAZwaUPoBuFmigh?usp=sharing
