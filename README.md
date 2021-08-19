@@ -43,3 +43,8 @@ https://gist.github.com/leeseomin/be03a1b82e53b3d77e72f1a7430048ac
 ### 구글코랩 실습 예제 
 
 뉴럴스타일 :  https://colab.research.google.com/drive/1B1T3R5m8Ll8dKvdwbIAZwaUPoBuFmigh?usp=sharing
+
+
+슈퍼 해상도 esrgan  :https://colab.research.google.com/drive/1V7xwDyx8ZD9_2SgCEnmqqa5NYdzpt7Ls?usp=sharing
+
+
