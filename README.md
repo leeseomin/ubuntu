@@ -47,9 +47,8 @@ gan 설명 : https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
 gan 테스팅코드 : https://colab.research.google.com/drive/1Un86gDoTuWivNa2Ft0CwX-VX-s0WW69q?usp=sharing
 
 
-뉴럴스타일 :  https://colab.research.google.com/drive/1B1T3R5m8Ll8dKvdwbIAZwaUPoBuFmigh?usp=sharing
-
-
 슈퍼 해상도 esrgan  :https://colab.research.google.com/drive/1V7xwDyx8ZD9_2SgCEnmqqa5NYdzpt7Ls?usp=sharing
+
+뉴럴스타일 :  https://colab.research.google.com/drive/1B1T3R5m8Ll8dKvdwbIAZwaUPoBuFmigh?usp=sharing
 
 
