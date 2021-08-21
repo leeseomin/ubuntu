@@ -1,9 +1,15 @@
 # ubuntu
 
+
+### dd 복사:  https://gist.github.com/leeseomin/fc1f8eb40d89d6da42579821d9814a47
+
 ### 해외뉴스 및 정보
 
 https://telegra.ph/news-and-more-08-16
 
+
+
+------------------------------------------------------------------------------------------------
 ### 한글 입력기 설치 
 
 https://gist.github.com/leeseomin/b7eb8714d2dacaba1b3232c3c9a24113
