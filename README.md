@@ -52,9 +52,11 @@ AI 시대 관련 기사 :  https://gist.github.com/leeseomin/a7950e4942e8f298315
 
 MIT 딥러닝 코스  :  https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLHkKmgGGVneX2BzZVYGqcWbFw_7ymcZqv
 
-gan 설명 : https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+GAN 설명 : https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
 
-gan 테스팅코드 : https://colab.research.google.com/drive/1Un86gDoTuWivNa2Ft0CwX-VX-s0WW69q?usp=sharing
+MNIST GAN  설명 : https://medium.com/intel-student-ambassadors/mnist-gan-detailed-step-by-step-explanation-implementation-in-code-ecc93b22dc60
+
+MNIST GAN 테스팅코드 : https://colab.research.google.com/drive/1Un86gDoTuWivNa2Ft0CwX-VX-s0WW69q?usp=sharing
 
 
 슈퍼 해상도 esrgan  :https://colab.research.google.com/drive/1V7xwDyx8ZD9_2SgCEnmqqa5NYdzpt7Ls?usp=sharing
