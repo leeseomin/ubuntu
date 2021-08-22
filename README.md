@@ -63,4 +63,6 @@ MNIST GAN 테스팅코드 : https://colab.research.google.com/drive/1Un86gDoTuWi
 
 뉴럴스타일 :  https://colab.research.google.com/drive/1B1T3R5m8Ll8dKvdwbIAZwaUPoBuFmigh?usp=sharing
 
+스타일갠 설명 :  https://jonathan-hui.medium.com/gan-stylegan-stylegan2-479bdf256299
+
 스타일갠2 ada 추상미술  : https://towardsdatascience.com/creating-abstract-art-with-stylegan2-ada-ea3676396ffb
