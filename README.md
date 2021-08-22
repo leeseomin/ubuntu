@@ -48,6 +48,8 @@ https://gist.github.com/leeseomin/be03a1b82e53b3d77e72f1a7430048ac
 
 ### 구글코랩 실습 예제 
 
+AI 시대 관련 기사 :  https://gist.github.com/leeseomin/a7950e4942e8f298315a484936077c07
+
 MIT 딥러닝 코스  :  https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLHkKmgGGVneX2BzZVYGqcWbFw_7ymcZqv
 
 gan 설명 : https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
