@@ -53,6 +53,7 @@ AI 시대 관련 기사 :  https://gist.github.com/leeseomin/a7950e4942e8f298315
 MIT 딥러닝 코스  :  https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLHkKmgGGVneX2BzZVYGqcWbFw_7ymcZqv
 
 
+선형회귀 :  https://colab.research.google.com/drive/1gH61udtFsGoB0HUmruD8TcDIYHk0mMt_?usp=sharing
 
 딥러닝 뉴럴네트워크 기본 : https://colab.research.google.com/drive/1b8a-4M-P6c2SS3J5FCcyBWdgMo6o3sKW?usp=sharing
 
