@@ -45,6 +45,10 @@ https://gist.github.com/leeseomin/be03a1b82e53b3d77e72f1a7430048ac
 
 https://gist.github.com/leeseomin/55a7ee160db7fe638cc8f3ebc1119f23
 
+### docker  예제1    이미지 캡션닝
+
+https://gist.github.com/leeseomin/133eac0165b685041740cb03f34ce214
+
 ###  실습으로 알아보는 이미지필터  아르떼 테스트
 
 
