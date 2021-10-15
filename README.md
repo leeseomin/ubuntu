@@ -55,6 +55,11 @@ https://gist.github.com/leeseomin/133eac0165b685041740cb03f34ce214
 
 # art history
 
+
+모던아트
+https://en.m.wikipedia.org/wiki/Modern_art
+
+
 현대예술 
 
 https://en.m.wikipedia.org/wiki/Contemporary_art
