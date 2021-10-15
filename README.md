@@ -57,9 +57,7 @@ https://gist.github.com/leeseomin/133eac0165b685041740cb03f34ce214
 
 현대예술 
 
-https://www.riseart.com/guide/2400/what-is-contemporary-art
-
-https://en.wikipedia.org/wiki/Contemporary_art
+https://en.m.wikipedia.org/wiki/Contemporary_art
 
 https://artsandculture.google.com/entity/contemporary-art/m0h0vk?hl=en
 
