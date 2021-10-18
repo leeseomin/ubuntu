@@ -1,7 +1,6 @@
 # ubuntu
 
 
-### dd 복사:  https://gist.github.com/leeseomin/fc1f8eb40d89d6da42579821d9814a47
 
 ### 해외뉴스 및 정보
 
@@ -92,3 +91,7 @@ MNIST GAN 테스팅코드 : https://colab.research.google.com/drive/1Un86gDoTuWi
 스타일갠 설명 :  https://jonathan-hui.medium.com/gan-stylegan-stylegan2-479bdf256299  ,  https://arxiv.org/pdf/1812.04948.pdf
 
 스타일갠2 ada 추상미술  : https://towardsdatascience.com/creating-abstract-art-with-stylegan2-ada-ea3676396ffb
+
+
+
+### dd 복사:  https://gist.github.com/leeseomin/fc1f8eb40d89d6da42579821d9814a47
