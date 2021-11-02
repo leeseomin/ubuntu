@@ -110,8 +110,9 @@ MNIST GAN 테스팅코드 : https://colab.research.google.com/drive/1Un86gDoTuWi
 
 
 
-### image to apng or webp
+# image to apng or webp 
 
+```
 ffmpeg -framerate 1 -pattern_type glob -i '*.png' \
   -c:v libx264 out.mp4
   
@@ -119,3 +120,5 @@ ffmpeg -framerate 1 -pattern_type glob -i '*.png' \
 ffmpeg -i out.mp4 -plays 0  apngout.apng
 
 ffmpeg -i  out.mp4 -vcodec libwebp -filter:v fps=fps=20 -lossless 1 -loop 0 -preset default -an -vsync 0 output.webp  
+
+```
