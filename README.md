@@ -71,6 +71,13 @@ https://artsandculture.google.com/entity/contemporary-art/m0h0vk?hl=en
 https://www.tate.org.uk/art/art-terms/m/minimalism
 
 
+# artworks
+
+https://www.wikiart.org
+
+https://artsandculture.google.com/
+
+
 ### 구글코랩 실습 예제 
 
 AI 시대 관련 기사 :  https://gist.github.com/leeseomin/a7950e4942e8f298315a484936077c07
