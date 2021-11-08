@@ -114,7 +114,7 @@ MNIST GAN 테스팅코드 : https://colab.research.google.com/drive/1Un86gDoTuWi
 
 
 
-# image to apng or webp 
+### image to apng or webp 
 
 ```
 ffmpeg -framerate 1 -pattern_type glob -i '*.png' \
@@ -126,3 +126,13 @@ ffmpeg -i out.mp4 -plays 0  apngout.apng
 ffmpeg -i  out.mp4 -vcodec libwebp -filter:v fps=fps=20 -lossless 1 -loop 0 -preset default -an -vsync 0 output.webp  
 
 ```
+
+
+### 이미지 넘버링 rename  숫자로
+
+a=1000
+for i in *.*; do
+  new=$(printf "%0d.png" "$a") #04 pad to length of 4
+  mv -i -- "$i" "$new"
+  let a=a+1
+done
