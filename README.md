@@ -129,10 +129,11 @@ ffmpeg -i  out.mp4 -vcodec libwebp -filter:v fps=fps=20 -lossless 1 -loop 0 -pre
 
 
 ### 이미지 넘버링 rename  숫자로
-
+```
 a=1000
 for i in *.*; do
   new=$(printf "%0d.png" "$a") #04 pad to length of 4
   mv -i -- "$i" "$new"
   let a=a+1
 done
+```
