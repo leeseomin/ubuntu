@@ -137,3 +137,7 @@ for i in *.*; do
   let a=a+1
 done
 ```
+
+
+###  nft art generator 
+https://github.com/leeseomin/nft-art-generator
