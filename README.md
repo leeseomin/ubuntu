@@ -79,6 +79,11 @@ https://artsandculture.google.com/entity/contemporary-art/m0h0vk?hl=en
 
 https://www.tate.org.uk/art/art-terms/m/minimalism
 
+미니멀리즘 vs 추상표현주의 
+
+While the Abstract Expressionists embraced personal emotion, the Minimalists wanted to completely remove themselves from their art. That's a big difference. Abstract Expressionists put themselves into their art; Minimalists take themselves out of it
+
+
 
 # artworks
 
