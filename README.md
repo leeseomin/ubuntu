@@ -49,6 +49,13 @@ https://gist.github.com/leeseomin/be03a1b82e53b3d77e72f1a7430048ac
 
 https://processing.org/tutorials/gettingstarted 
 
+### 제너러티브 아트 1
+
+https://github.com/cutterkom/generativeart 
+
+
+
+
 ### 페이스 모핑
 
 https://github.com/seominlee/Face-Morphing
