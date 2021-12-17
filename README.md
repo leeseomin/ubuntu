@@ -45,9 +45,13 @@ https://gist.github.com/leeseomin/85c60c30dc803faa865fb6f6cdd78830
 https://gist.github.com/leeseomin/be03a1b82e53b3d77e72f1a7430048ac
 
 
-### 제너러티브 도구
+### 제너러티브 도구(프로세싱)
 
 https://processing.org/tutorials/gettingstarted 
+
+### 제너러티브 아트 가이드 
+
+https://aiartists.org/generative-art-design
 
 ### 제너러티브 아트 1
 
