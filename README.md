@@ -55,6 +55,8 @@ https://aiartists.org/generative-art-design
 
 ### r기반 제너러티브 아트 필수 설치 
 
+https://gist.github.com/leeseomin/61728e49544a7cd75e76597c366ddcf9 
+
 ### 제너러티브 아트 1
 
 https://github.com/cutterkom/generativeart 
