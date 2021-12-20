@@ -53,6 +53,8 @@ https://processing.org/tutorials/gettingstarted
 
 https://aiartists.org/generative-art-design
 
+### r기반 제너러티브 아트 필수 설치 
+
 ### 제너러티브 아트 1
 
 https://github.com/cutterkom/generativeart 
