@@ -67,6 +67,11 @@ https://github.com/cutterkom/generativeart
 https://github.com/leeseomin/generativeart 
 
 
+### 랜던 컬러
+
+https://github.com/leeseomin/randomColor 
+
+
 
 ### 페이스 모핑
 
