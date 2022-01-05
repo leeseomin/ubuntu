@@ -29,6 +29,11 @@ https://gist.github.com/leeseomin/1f13cd8a11fc4e772208bedbe67453b8
 그냥 MP4파일  드래그 
 
 
+### 가상 갤러리 
+
+https://github.com/ClementCariou/virtual-art-gallery 
+
+
 
 ###  youtube-dl  다운로드 예제 
 
