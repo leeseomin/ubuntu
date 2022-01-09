@@ -18,6 +18,11 @@ https://gist.github.com/leeseomin/b7eb8714d2dacaba1b3232c3c9a24113
 
 https://gist.github.com/leeseomin/b475e32a63b2cacc4177c6b8fc9f5f72
 
+### FIREFOX COLOR SETTING (브라우저 프로파일 색조정)
+
+https://gist.github.com/leeseomin/5d23253e381b42e6a6bf0d4037adbf1a 
+
+
 
 ### ffmpeg 예제 
 
