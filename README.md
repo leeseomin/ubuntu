@@ -61,6 +61,12 @@ https://gist.github.com/leeseomin/be03a1b82e53b3d77e72f1a7430048ac
 
 https://processing.org/tutorials/gettingstarted 
 
+### 프로세싱 설치 in 우분투 
+
+https://github.com/leeseomin/ProcessingInst
+
+
+
 ### 제너러티브 아트 가이드 
 
 https://aiartists.org/generative-art-design
