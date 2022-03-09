@@ -33,6 +33,10 @@ https://gist.github.com/leeseomin/1f13cd8a11fc4e772208bedbe67453b8
 
 그냥 MP4파일  드래그 
 
+### 깃헙 큰 이미지 파일 올리기 (100mb 이하)
+
+https://gist.github.com/leeseomin/60c5889dc62483cdf5d43d452f04d319 
+
 
 ### 가상 갤러리 
 
