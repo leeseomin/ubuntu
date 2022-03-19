@@ -28,6 +28,7 @@ sudo apt-get install xcalib
 xcalib -c   (reset)   
 
 
+xcalib -co 75 -a  (75%)
 
 xcalib -co 70 -a    (70%)
 
