@@ -150,6 +150,9 @@ https://en.m.wikipedia.org/wiki/Contemporary_art
 
 https://artsandculture.google.com/entity/contemporary-art/m0h0vk?hl=en
 
+개념 미술
+
+https://owlcation.com/humanities/17-Greatest-Works-of-Conceptual-Art 
 
 미니멀리즘
 
