@@ -142,6 +142,8 @@ https://gist.github.com/leeseomin/569f5f428f83c344dce3679ef60e5f82
 
 https://github.com/lowfuel/progrockdiffusion  (로컬 gpu)
 
+https://github.com/leeseomin/diffusion_local (로컬 gpu)
+
 https://www.reddit.com/r/DiscoDiffusion/  
 
 
