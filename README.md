@@ -136,9 +136,13 @@ https://gist.github.com/leeseomin/133eac0165b685041740cb03f34ce214
 ###  실습으로 알아보는 이미지필터  아르떼 테스트
 
 
-### 디스코퓨전 관련
+### 디스코퓨전 관련 링크들 
 
+https://gist.github.com/leeseomin/569f5f428f83c344dce3679ef60e5f82 
 
+https://github.com/lowfuel/progrockdiffusion 
+
+https://www.reddit.com/r/DiscoDiffusion/  
 
 
 # art history
