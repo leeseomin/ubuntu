@@ -226,6 +226,9 @@ MNIST GAN 테스팅코드 : https://colab.research.google.com/drive/1Un86gDoTuWi
 ffmpeg -framerate 1 -pattern_type glob -i '*.png' \
   -c:v libx264 out.mp4
   
+ffmpeg -i out.mp4 -pix_fmt yuv420p -crf 18 good.mp4  
+  
+  
   
 ffmpeg -i out.mp4 -plays 0  apngout.apng
 
