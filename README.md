@@ -12,7 +12,9 @@ https://telegra.ph/news-and-more-08-16
 https://gist.github.com/leeseomin/4636558009f72e9bddbd21d95e786705 
 
 
+### qr 코드 생성기 (url -> qr)
 
+https://www.the-qrcode-generator.com/ 
 ------------------------------------------------------------------------------------------------
 ### 한글 입력기 설치 
 
